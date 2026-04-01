@@ -1,0 +1,8 @@
+palindrome-number/
+├── README.md
+├── src/
+│   └── main/
+│       └── java/
+│           └── Solution.java
+└── test/
+    └── SolutionTest.java   (optional JUnit tests)
